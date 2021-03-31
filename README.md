@@ -3,7 +3,6 @@ My name is Peter and i'm a computer science student at Brazil.
 
 ![Hacker man!](https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif)
 
----
 
 🌱 I’m currently learning Computer Science at UDF university in Brazil!
 
