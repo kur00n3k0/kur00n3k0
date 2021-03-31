@@ -1,16 +1,33 @@
 ### Hi there 👋
+My name is Peter and i'm a computer science student at Brazil.
 
-<!--
-**peterspbr/peterspbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hacker man!](https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Computer Science at UDF university in Brazil!
+
+👯 I’m looking to collaborate on cybersecurity projects and game developing.
+
+---
+
+## My top projects?
+* [OpenGL example](https://github.com/peterspbr/opengl-game-engine)
+* [My website templates!](https://github.com/peterspbr/peterspbr.github.io)
+
+## My top programming languages
+* C/C++
+* Python
+* PHP
+* Javasript
+
+## My social pages
+* [Twitter](https://twiter.com/HSPeterSS)
+* [Linkedin](https://www.linkedin.com/in/pedro-henrique-da-rocha-s-386a51202)
+* [Hack the Box](https://www.hackthebox.eu/home/users/profile/352775)
+
+**Current Hack the Box badge**
+
+![HTB badge](http://www.hackthebox.eu/badge/image/352775)
+
+Nice to meet ya!
