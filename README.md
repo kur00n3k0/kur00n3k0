@@ -28,5 +28,6 @@ My name is Peter and i'm a computer science student at Brazil.
 **Current Hack the Box badge**
 
 ![HTB badge](http://www.hackthebox.eu/badge/image/352775)
+<script src="https://www.hackthebox.eu/badge/352775">{newline}</script>
 
 Nice to meet ya!
