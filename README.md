@@ -25,8 +25,4 @@ My name is Peter and i'm a computer science student at Brazil.
 * [Linkedin](https://www.linkedin.com/in/pedro-henrique-da-rocha-s-386a51202)
 * [Hack the Box](https://www.hackthebox.eu/home/users/profile/352775)
 
-**Current Hack the Box badge**
-
-![HTB badge](http://www.hackthebox.eu/badge/image/352775)
-
 Nice to meet ya!
