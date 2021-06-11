@@ -22,7 +22,6 @@ My name is Peter and i'm a computer science student at Brazil.
 
 ## My social pages
 * [Twitter](https://twiter.com/HSPeterSS)
-* [Linkedin](https://www.linkedin.com/in/pedro-henrique-da-rocha-s-386a51202)
 * [Hack the Box](https://www.hackthebox.eu/home/users/profile/352775)
 
 Nice to meet ya!
