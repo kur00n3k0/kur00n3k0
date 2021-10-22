@@ -24,4 +24,6 @@ My name is Peter and i'm a computer science student at Brazil.
 * [Twitter](https://twiter.com/HSPeterSS)
 * [Hack the Box](https://www.hackthebox.eu/home/users/profile/352775)
 
+![Hack the Box](http://www.hackthebox.eu/badge/image/352775)
+
 Nice to meet ya!
