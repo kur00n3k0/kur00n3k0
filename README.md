@@ -9,6 +9,7 @@ My name is Peter and i'm a computer science student at Brazil.
 I use the following programming languages && frameworks:
 
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=for-the-badge&logo=cplusplus)
+![Javascript](https://img.shields.io/badge/-Javascript-35495E?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-orange?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=for-the-badge&logo=laravel)
