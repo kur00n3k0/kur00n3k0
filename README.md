@@ -18,8 +18,6 @@ I use the following programming languages && frameworks:
 ![Peters's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=peterspbr&theme=dracula)
 ![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?username=peterspbr&layout=compact&theme=dracula)
 
-![Hack the Box](http://www.hackthebox.eu/badge/image/352775)
-
 <details>
 <summary>:bar_chart: My top programming languages</summary>
 
@@ -39,6 +37,8 @@ I use the following programming languages && frameworks:
 </details>
 
 Nice to meet ya!
+
+![Hack the Box](http://www.hackthebox.eu/badge/image/352775)
 
 ![Twitter](https://img.shields.io/badge/Twitter-HSPeterSS-blue)
 ![OSU!](https://img.shields.io/badge/OSU!-IchigoHamu-e75480)
