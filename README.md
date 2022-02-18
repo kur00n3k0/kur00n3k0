@@ -4,7 +4,7 @@
 
 My name is Peter and i'm a computer science student at Brazil.
 
-👯 I’m looking to collaborate on cybersecurity projects and game developing.
+👯 I’m looking to collaborate on cybersecurity projects and game development.
 
 I use the following programming languages && frameworks:
 
