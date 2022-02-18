@@ -15,7 +15,8 @@ I use the following programming languages && frameworks:
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=for-the-badge&logo=laravel)
 ![CakePHP](https://img.shields.io/badge/-CakePHP-35495E?style=for-the-badge&logo=cakephp)
 
-![Peters's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=peterspbr)
+![Peters's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=peterspbr&theme=dracula)
+![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?username=peterspbr&layout=compact&theme=dracula)
 
 ![Hack the Box](http://www.hackthebox.eu/badge/image/352775)
 
