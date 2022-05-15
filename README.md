@@ -6,7 +6,7 @@ My name is Peter and i'm a computer science student at Brazil.
 
 👯 I’m looking to collaborate on cybersecurity projects and game development.
 
-I use the following programming languages && frameworks:
+I use the following programming languages:
 
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=for-the-badge&logo=cplusplus)
 ![Javascript](https://img.shields.io/badge/-Javascript-35495E?style=for-the-badge&logo=javascript)
