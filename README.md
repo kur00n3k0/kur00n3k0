@@ -12,8 +12,7 @@ I use the following programming languages && frameworks:
 ![Javascript](https://img.shields.io/badge/-Javascript-35495E?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-orange?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
-![Laravel](https://img.shields.io/badge/-Laravel-222222?style=for-the-badge&logo=laravel)
-![CakePHP](https://img.shields.io/badge/-CakePHP-35495E?style=for-the-badge&logo=cakephp)
+![Shell](https://img.shields.io/badge/-Shell-blue?style=for-the-badge&logo=shell)
 
 ![Peters's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=peterspbr&theme=dracula)
 ![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?username=peterspbr&layout=compact&theme=dracula)
