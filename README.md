@@ -13,6 +13,7 @@ My top programming languages:
 ![PHP](https://img.shields.io/badge/-PHP-orange?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
 ![Shell](https://img.shields.io/badge/-Shell-blue?style=for-the-badge&logo=shell)
+![Assembly](https://img.shields.io/badge/-Assembly-gray?style=for-the-badge)
 
 That's the languages i use at most, but i know how to program in any programming language, even the older ones ;)
 
