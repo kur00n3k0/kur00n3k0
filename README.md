@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-![banner](https://user-images.githubusercontent.com/32419269/154595791-e1d1ed19-dc7c-41db-a9cc-e8097fa5ea81.png)
-
-My name is Peter and i'm a computer science student and linux system administrator. In my free time i like to do some hardware hacking, contribute for malware analysis and look for retro video games (i also hack them too).
-
 ![Peters's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=peterspbr&theme=dracula)
 ![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?username=peterspbr&layout=compact&theme=dracula)
+
+My name is Peter and i'm a computer science student and linux system administrator. In my free time i like to do some hardware hacking, contribute for malware analysis and look for retro video games (i also hack them too).
 
 👯 I’m looking to collaborate on cybersecurity projects, hardware development/hacking and recently learning about embedded devices. I look to collab in any low level programming project cuz i really like low level programming!
 
