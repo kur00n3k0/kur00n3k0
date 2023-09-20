@@ -12,8 +12,6 @@ That's the languages i use at most, but i'm always learning new programming lang
 
 ![Rust](https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust)
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=for-the-badge&logo=cplusplus)
-![Javascript](https://img.shields.io/badge/-Javascript-35495E?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-orange?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
 ![Shell](https://img.shields.io/badge/-Shell-blue?style=for-the-badge&logo=shell)
 
