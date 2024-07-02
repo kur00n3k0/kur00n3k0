@@ -1,12 +1,12 @@
 # Hi there 👋
 
-My name is Peter and i'm a computer science student and Linux system administrator. In my free time i like to do some hardware hacking, contribute for malware analysis and look for some retro video games (i also hack them too).
+My name is Peter, and I’m a computer science student and cybersecurity analyst. In my free time, I enjoy hardware hacking, contributing to malware analysis, and searching for retro video games (which I also hack).
 
 ![Peters's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=peterspbr&theme=dracula)
 
-I’m looking to collaborate on cybersecurity projects, hardware development/hacking and recently learning about embedded devices. I look to collab in any low level programming project.
+I’m seeking to collaborate on cybersecurity projects and hardware development/hacking. I am eager to learn about embedded devices and am an active researcher in Fully Homomorphic Encryption (FHE). I am particularly interested in collaborating on low-level programming projects.
 
-That's the languages i use at most, but i'm always learning new programming languages. At the moment i'm learning Rust.
+These are the languages I use most frequently, but I’m always learning new ones. At the moment, I’m learning Rust.
 
 ![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?username=peterspbr&layout=compact&theme=dracula)
 
@@ -25,5 +25,4 @@ Also take a look at some of my social media pages and game accounts. Let's have 
 
 ![Hack the Box](http://www.hackthebox.eu/badge/image/352775)
 
-![Twitter](https://img.shields.io/badge/Twitter-HSPeterSS-blue)
 ![OSU!](https://img.shields.io/badge/OSU!-IchigoHamu-e75480)
