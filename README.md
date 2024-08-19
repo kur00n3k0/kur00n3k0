@@ -18,6 +18,7 @@ These are the languages I use most frequently, but I’m always learning new one
 **Writting things now!**
 
 Take a look at my Medium page where i post my thoughts about programming and hacking: https://medium.com/@grapefruitcat
+
 Also i have Brazilian Portuguese posts about Fully Homomorphic Encryption: https://fully-homomorphic-encryption-fhe.gitbook.io/intro-to-fhe
 
 **Play with me**
