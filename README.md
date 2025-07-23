@@ -21,13 +21,13 @@ And...
 
 Here are some of my stats on Github:
 
-![Peters's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=peterspbr&theme=radical)
+![Peters's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=kur00n3k0&theme=radical)
 
 I’m seeking to collaborate on cybersecurity projects and hardware hacking. I am eager to learn about embedded devices and am an (not that much actually) active researcher in Fully Homomorphic Encryption (FHE). I am particularly interested in collaborating on low-level programming projects.
 
 You can get some hint on some of my fav programming languages by this card:
 
-![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?username=peterspbr&layout=compact&theme=radical)
+![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?username=kur00n3k0&layout=compact&theme=radical)
 
 **Writting things now!**
 
