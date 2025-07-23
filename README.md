@@ -2,7 +2,7 @@
 
 ![This art is actually pretty cool!](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY1bGRicHJ4eDdnYmFpemZuYXVneWhqYzZndDFpNnZhdXV2enI5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XMFQroKFTaaHNGg8dr/giphy.gif)
 
-![Rust](https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust)
+![Rust](https://img.shields.io/badge/-Asm-gray?style=for-the-badge&logo=linux)
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
 ![Shell](https://img.shields.io/badge/-Shell-blue?style=for-the-badge&logo=shell)
@@ -11,15 +11,15 @@ I'm just a cybersecurity analyst focused on Pentest, Malware Analysis, Reverse E
 
 I spend a lot of my time researching and refining offensive techniques, specially those that includes binary exploitation. I don't like web pentesting but no pentester can escape from that, right? :)
 
-Look for me:
+Look for me @:
 
-![Hack the Box](http://www.hackthebox.eu/badge/image/352775)
+[![Hack the Box](http://www.hackthebox.eu/badge/image/352775)](https://app.hackthebox.com/profile/352775)
 
 ![OSU!](https://img.shields.io/badge/OSU!-IchigoHamu-e75480)
 
 And...
 
-Here are some of my stats here on Github:
+Here are some of my stats on Github:
 
 ![Peters's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=peterspbr&theme=radical)
 
